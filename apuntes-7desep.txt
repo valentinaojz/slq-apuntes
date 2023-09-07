@@ -1,0 +1,12 @@
+select = selecciona del listado 
+from = seguido de la tabla 
+where = seguido de CONDICIÓN 
+order by = ordenado por 
+limit = es un limite de cosas que quiero que sean mostradas 
+
+en sql se pone  los parentesis cuando hay una operación mátematica 
+
+para hacer un campo calculado se usa as + nombre y luego from 
+
+COMO = as 
+para ingresar información tenemos la sentencia INSERT INTO  y se usa values() para entegar la información 
